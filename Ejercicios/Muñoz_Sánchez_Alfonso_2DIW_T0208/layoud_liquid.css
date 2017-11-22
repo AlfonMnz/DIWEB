@@ -1,0 +1,85 @@
+body {
+    background-color: aquamarine;
+}
+
+.entero {
+    width: 100%;
+
+}
+
+.entero li {
+    display: inline-block;
+    align-items: center;
+    background-color: deepskyblue;
+    margin-left: 1%;
+
+}
+
+.entero ul {
+    padding: 0;
+
+}
+
+.cuartos {
+
+    width: 100%;
+}
+
+.cuartos li {
+    display: inline-block;
+    width: 24%;
+    float: left;
+    min-height: 100px;
+    background-color: #088A68;
+    list-style: none;
+    margin-left: 1%;
+
+}
+
+.cuartos ul {
+    padding: 0px;
+    clear: both;
+    overflow: hidden;
+}
+
+.mitad {
+    width: 100%;
+    min-height: 100px;
+
+}
+
+.mitad ul {
+    padding: 0px;
+    clear: both;
+    overflow: hidden;
+}
+
+.mitad li {
+    display: inline-block;
+
+    width: 49%;
+    float: left;
+    min-height: 100px;
+    background-color: cornflowerblue;
+    margin-left: 1%;
+    list-style: none;
+
+}
+.octavos{
+    width: 100%;
+}
+.octavos ul{
+    padding: 0;
+    clear: both;
+    overflow: hidden;
+}
+.octavos li{
+    display: inline-block;
+    width: 11.5%;
+    float: left;
+    background-color: rosybrown;
+    margin-left: 1%;
+    min-height: 100px;
+
+
+}
