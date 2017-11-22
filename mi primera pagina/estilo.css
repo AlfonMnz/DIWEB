@@ -1,0 +1,12 @@
+body {
+    background: url('ganglios.jpg') no-repeat;
+    background-size: cover;
+}
+.holi {
+    color: aqua;
+    font-size: 50px;
+    font-family: "Comic Sans MS";
+}
+p{
+    font-family: "arial";
+}

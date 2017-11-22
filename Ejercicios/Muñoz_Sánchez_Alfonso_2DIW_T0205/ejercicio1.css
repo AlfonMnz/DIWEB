@@ -1,0 +1,22 @@
+.contenedor{
+    background-color: blue;
+    min-height: 125px;
+
+
+
+}
+.contenedor .ventana1 {
+    float: left;
+
+    width: 45%;
+    background-color: red;
+
+}
+
+.contenedor .ventana2{
+    float: right;
+
+    width: 40%;
+    background-color: yellow;
+
+}

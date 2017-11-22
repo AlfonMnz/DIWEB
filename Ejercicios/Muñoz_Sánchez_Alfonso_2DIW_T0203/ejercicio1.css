@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+
+}
+body, html{
+	height: 100%;
+}
+.top{
+	background-color: #088A68;
+	padding-bottom: 10px;
+
+}
+.top a{
+	color: lightyellow;
+	background-color: green;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 15px;
+}
+/*.top a:visited{
+	background-color: purple;
+	color: lightblue;
+}*/
+.titulo{
+	position: center;
+	text-align: center;
+	margin-top: 15px ;
+	margin-bottom: 30px;
+}
+.titulo h2{
+	color: #97aa55;
+	margin-bottom: 30px;
+}
+.titulo h3{
+	color: grey;
+
+}
+.cuerpo1, .cuerpo2{
+	float: left;
+}
+.cuerpo1{
+	width: 75%;
+	background-color: #C0E5B8;
+	height: 100%;
+}
+.cuerpo2{
+	width: 25%;
+}
+.articulo p{
+	border: 5px double lightblue;
+	
+	font-size: 15px;
+	font-weight: bold;
+	padding: 10px 30px;
+	text-align: justify;
+	background-color: white;
+}
+.articulo h5{
+	margin-bottom: 10px;
+	color: purple;
+	font-size: 15px;
+}
+.articulo{
+	margin-left: 40px;
+	margin-bottom: 10px;
+	margin-right: 40px;
+}
+.cuerpo2{
+	background-color: pink;
+	height: 100%;
+}
+.anuncio{
+	background-color: white;
+	align-self: center;
+	border: 2px solid blue;
+	margin: 20px;
+	padding: 10px;
+}
+.anuncio p:nth-child(1){
+	font-weight: bold;
+	text-align: center;
+}
+.anuncio p:nth-child(2){
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	
+}
+.anuncio p{
+	margin: 20px 0px;
+	padding: 0px 20px;
+}

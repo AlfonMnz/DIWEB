@@ -1,0 +1,109 @@
+
+nav {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    background-color: rosybrown;
+    border-radius: 25px;
+    box-shadow: 5px 2px blueviolet;
+    -webkit-animation-name: inicio;
+    -moz-animation-name: inicio;
+    -o-animation-name: inicio;
+    animation-name: inicio;
+    animation-duration: 2s;
+}
+
+nav ul {
+
+    padding: .7em;
+
+    list-style: none;
+
+    border-radius: .5em;
+
+}
+
+nav li {
+
+    float: left;
+    margin-left: 20%;
+    border-radius: 5px;
+    border: 1px solid darkslateblue;
+    color: darkslateblue;
+
+}
+
+nav a {
+    float: left;
+    border-radius: 5px;
+    border: 1px solid;
+    text-decoration: none;
+}
+
+nav li:hover {
+    color: mediumvioletred;
+
+
+}
+nav ul li ul {
+    padding: 0;
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transiton: opacity 0.2s;
+    -moz-transition: opacity 0.2s;
+    -ms-transition: opacity 0.2s;
+    -o-transition: opacity 0.2s;
+    -transition: opacity 0.2s;
+}
+nav ul li ul li {
+    background-color: darkcyan;
+    display: block;
+    color: darkblue;
+
+}
+nav ul li:hover ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    -webkit-animation-name: mover;
+    -moz-animation-name: mover;
+    -o-animation-name: mover;
+    animation-name: mover;
+    animation-duration: 0.5s;
+}
+@keyframes mover {
+    from {
+        margin-left: 25%;
+        width: 0%
+    }
+    to {
+        width: 100%;
+    }
+
+
+}
+
+@keyframes inicio {
+    from {
+        margin-left: 100%;
+        width: 0%
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+@keyframes aumentar {
+    0% {
+        height: 100px
+    }
+    25% {
+        height: 150px;
+    }
+    50% {
+        height: 200px;
+    }
+}

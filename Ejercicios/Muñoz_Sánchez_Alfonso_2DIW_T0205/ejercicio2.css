@@ -1,0 +1,16 @@
+.contenedor {
+    max-height: 99px;
+    background-color: darkturquoise;
+    overflow: hidden;
+
+}
+
+.contenedor .hijo1 {
+    float: left;
+    width: 45%;
+}
+
+.contenedor .hijo2 {
+    float: right;
+    width: 45%;
+}
