@@ -6,11 +6,7 @@ nav {
     background-color: rosybrown;
     border-radius: 25px;
     box-shadow: 5px 2px blueviolet;
-    -webkit-animation-name: inicio;
-    -moz-animation-name: inicio;
-    -o-animation-name: inicio;
-    animation-name: inicio;
-    animation-duration: 2s;
+
 }
 
 nav ul {
