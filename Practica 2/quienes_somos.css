@@ -1,0 +1,22 @@
+.header{
+
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    border: solid green 2px;
+
+}
+.header nav{
+    display: block;
+    float: right;
+    overflow: hidden;
+    width: 90%;
+}
+.header nav ul{
+    list-style: none;
+}
+.header nav li{
+    float: left;
+    margin-left: 20%;
+
+}
