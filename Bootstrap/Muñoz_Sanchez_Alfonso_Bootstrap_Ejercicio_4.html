@@ -11,6 +11,16 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
           integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <style>
+        .box {
+            min-height: 95%;
+            border: solid 2px gray;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            margin: 5px;
+        }
+
         .verde {
             background-color: #5CDE83;
             padding: 2rem;
@@ -20,32 +30,88 @@
             background-color: #00577D;
             padding: 2rem;
         }
-        .gris{
+
+        .gris {
             background-color: darkgray;
+            padding: 2rem;
+        }
+
+        .aguamarina {
+            background-color: aquamarine;
+        }
+
+        .naranja {
+            background-color: darkorange;
             padding: 2rem;
         }
     </style>
 </head>
 <body>
 <div class="container-fluid">
-    <div class="row">
-        <div class="verde col-12"></div>
+    <div class="row  no-gutters">
+        <div class="col-12">
+            <div class="box verde">Header</div>
+        </div>
     </div>
-    <div class="row">
-        <div class="col-3 azul offset-md-3">1</div>
-        <div class="col-3 azul ">2</div>
+    <div class="row no-gutters">
+        <div class="col-6  offset-md-3 col-md-3 col-sm-3">
+            <div class="box azul">1</div>
+        </div>
+        <div class="col-6  col-md-3 col-sm-3">
+            <div class="box azul">2</div>
+        </div>
         <div class="col-3 clearfix d-none d-md-block"></div>
-        <div class="col-3 azul">3</div>
-        <div class="col-3 azul offset-md-6">4</div>
+        <div class="col-6  col-md-3 col-sm-3">
+            <div class="box azul">3</div>
+        </div>
+        <div class="col-6 offset-md-6 col-md-3 col-sm-3">
+            <div class="box azul">4</div>
+        </div>
     </div>
-    <div class="row">
-        <div class="col-3 gris">a</div>
-        <div class="col-3 gris">b</div>
-        <div class="col-3 gris">c</div>
-        <div class="col-3 gris">d</div>
+    <div class="row  no-gutters">
+        <div class="col-12 ">
+            <div class="box aguamarina d-none d-sm-block d-md-none">Tablet</div>
+        </div>
     </div>
-    <div class="row"></div>
-    <div class="row"></div>
+    <div class="row  no-gutters">
+        <div class="col-6 col-sm-3 order-md-4">
+            <div class="box gris">a</div>
+        </div>
+        <div class="col-6  col-sm-3 order-md-3">
+            <div class="box gris">b</div>
+        </div>
+        <div class="col-6  col-sm-3 order-md-2">
+            <div class="box gris">c</div>
+        </div>
+        <div class="col-6  col-sm-3 order-md-1">
+            <div class="box gris">d</div>
+        </div>
+    </div>
+    <div class="row  no-gutters">
+        <div class="col-12 ">
+            <div class="box aguamarina d-none d-md-block">Desktop</div>
+        </div>
+    </div>
+    <div class="row  no-gutters">
+        <div class="col-12 ">
+            <div class="box aguamarina d-block d-sm-none">Mobile</div>
+        </div>
+    </div>
+    <div class="row no-gutters">
+        <div class="col-2 clearfix d-none d-md-block"></div>
+        <div class="col-2 clearfix d-none d-md-block"></div>
+        <div class="col-md-2 order-md-2 col-sm-6">
+            <div class="box naranja">:D</div>
+        </div>
+        <div class="col-md-2 order-md-3 col-sm-6 d-none d-sm-block">
+            <div class="box naranja">:(</div>
+        </div>
+    </div>
+    <div class="row  no-gutters">
+        <div class="col-12">
+            <div class="box verde">Footer</div>
+        </div>
+    </div>
 </div>
 </body>
 </html>
