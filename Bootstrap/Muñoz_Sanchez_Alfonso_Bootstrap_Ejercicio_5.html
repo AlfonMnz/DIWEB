@@ -20,62 +20,100 @@
             margin: 5px;
         }
 
-        .verde {
-            background-color: #5CDE83;
+        .salmon {
+            background-color: salmon;
             padding: 2rem;
+            text-align: center;
         }
 
         .rojo {
             background-color: red;
             padding: 2rem;
         }
-        .amarillo{
+
+        .amarillo {
             background-color: yellow;
             padding: 2rem;
         }
-        .azul{
+
+        .azul {
             background-color: blue;
             padding: 2rem;
         }
-        @media (min-width: 300px){
-            .azul{
-                background-color: blue;
-                align-items: center;
+
+        @media screen and (min-width: 576px) {
+
+
+          /*  .col-12:nth-child(2) .rojo {
+               align-items: right;
+               background-color: blue;
+           }*/
+
+            .col-sm-6 .azul {
+                text-align: right;
+                background-color: red;
             }
-            .col-12:nth-child(2) .rojo{
-                align-items: right;
-                background-color: blue;
+            .col-sm-12 .rojo{
+                background-color: green;
+                text-align: center;
+
             }
-            .col-12:nth-child(3) .rojo{
-                align-items: right;
-                background-color: blue;
+            .col-12 .salmon{
+                background-color: aquamarine;
+                text-align: left;
             }
+        }
+        @media screen and (min-width: 768px){
+            .col-md-4{
+                height: 400px;
+            }
+            .col-md-4 .rojo{
+                text-align: center;
+                font-size: 50px;
+                background-color: red;
+            }
+            .col-md-4 .azul{
+                text-align: center;
+                font-size: 50px;
+                background-color: red;
+            }
+            .col-12 .salmon{
+                background-color: green;
+            }
+            .col-md-6:nth-child(1) .amarillo{
+                text-align: right;
+            }
+            .col-md-6:nth-child(2) .amarillo{
+                text-align: left;
+            }
+
+
         }
     </style>
 </head>
 <body>
 <div class="content-fluid">
-    <div class="row">
+    <div class="row no-gutters">
         <div class="col-12">
-            <div class="box verde">Header</div>
+            <div class="box salmon">Header</div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-12">
+    <div class="row no-gutters">
+        <div class="col-12 col-sm-6 col-md-4">
             <div class="box rojo">1</div>
         </div>
-        <div class="col-12">
-            <div class="box rojo">2</div>
+        <div class="col-12 col-sm-6 col-md-4">
+            <div class="box azul">2</div>
         </div>
-        <div class="col-12">
+        <div class="col-12 col-sm-12 col-md-4">
             <div class="box rojo">3</div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-12">
+    <div class="row no-gutters">
+        <div class="col-12 col-md-6">
             <div class="box amarillo">Footer 1</div>
         </div>
-        <div class="col-12">
+        <div class="col-12 col-md-6">
             <div class="box amarillo">Footer 2</div>
         </div>
     </div>
