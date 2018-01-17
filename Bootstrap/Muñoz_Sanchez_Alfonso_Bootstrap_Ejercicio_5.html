@@ -30,6 +30,10 @@
             background-color: red;
             padding: 2rem;
         }
+        .col-12:nth-child(3) .rojo{
+            text-align: right;
+        }
+
 
         .amarillo {
             background-color: yellow;
@@ -39,6 +43,7 @@
         .azul {
             background-color: blue;
             padding: 2rem;
+            text-align: center;
         }
 
         @media screen and (min-width: 576px) {
@@ -53,7 +58,7 @@
                 text-align: right;
                 background-color: red;
             }
-            .col-sm-12 .rojo{
+            .col-sm-12:nth-child(3) .rojo{
                 background-color: green;
                 text-align: center;
 
@@ -67,7 +72,12 @@
             .col-md-4{
                 height: 400px;
             }
-            .col-md-4 .rojo{
+            .col-md-4:nth-child(3) .rojo{
+                text-align: center;
+                font-size: 50px;
+                background-color: red;
+            }
+            .col-md-4:nth-child(1) .rojo{
                 text-align: center;
                 font-size: 50px;
                 background-color: red;
