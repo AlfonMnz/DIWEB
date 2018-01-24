@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25e0d0d2-2588-4034-b150-c5da8f30dc3c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,11 +66,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="458">
               <caret line="78" column="42" lean-forward="false" selection-start-line="78" selection-start-column="42" selection-end-line="78" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bootstrap/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -140,6 +150,7 @@
         <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_7.html" />
         <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_8.html" />
         <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/index.html" />
       </list>
     </option>
   </component>
@@ -253,7 +264,7 @@
       <workItem from="1516268782584" duration="4404000" />
       <workItem from="1516622145287" duration="1235000" />
       <workItem from="1516627139917" duration="725000" />
-      <workItem from="1516781002701" duration="2888000" />
+      <workItem from="1516781002701" duration="3378000" />
     </task>
     <task id="LOCAL-00001" summary="Layout Liquids">
       <created>1511349833969</created>
@@ -318,11 +329,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516275067105</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Muñoz Sánchez Alfonso Bootstrap Ejercicio 9 terminado">
+      <created>1516784778479</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1516784778479</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39670000" />
+    <option name="totallyTimeSpent" value="40160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -364,14 +382,14 @@
     <MESSAGE value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 5 terminado y arreglado" />
     <MESSAGE value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 6 terminado" />
     <MESSAGE value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 7 terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 7 terminado" />
+    <MESSAGE value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 9 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 9 terminado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hola.js" />
     <entry file="file://$PROJECT_DIR$/Ejercicios/mi primera pagina/paginita.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -663,6 +681,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
           <caret line="78" column="42" lean-forward="false" selection-start-line="78" selection-start-column="42" selection-end-line="78" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding />
         </state>
       </provider>
