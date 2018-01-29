@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25e0d0d2-2588-4034-b150-c5da8f30dc3c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_10.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_11.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/index.html" afterPath="$PROJECT_DIR$/Bootstrap/index.html" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html" afterPath="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_2.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,7 +39,7 @@
       <file leaf-file-name="Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_7.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="187">
               <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
@@ -57,8 +49,8 @@
       <file leaf-file-name="Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_8.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="118" />
+            <state relative-caret-position="240">
+              <caret line="15" column="148" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="148" />
               <folding>
                 <element signature="e#1050#1057#1" expanded="true" />
               </folding>
@@ -70,18 +62,41 @@
         <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="458">
-              <caret line="78" column="42" lean-forward="false" selection-start-line="78" selection-start-column="42" selection-end-line="78" selection-end-column="42" />
+              <caret line="72" column="18" lean-forward="false" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bootstrap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="391">
+              <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_10.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_10.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3893">
+              <caret line="229" column="41" lean-forward="false" selection-start-line="229" selection-start-column="41" selection-end-line="229" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,11 +121,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_3.html">
+      <file leaf-file-name="Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_11.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_11.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="72" column="48" lean-forward="false" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="48" />
+            <state relative-caret-position="390">
+              <caret line="47" column="10" lean-forward="false" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -148,9 +163,11 @@
         <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_6.html" />
         <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstra_Ejercicio_7.html" />
         <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_7.html" />
-        <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_8.html" />
-        <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html" />
         <option value="$PROJECT_DIR$/Bootstrap/index.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_10.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_8.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_11.html" />
       </list>
     </option>
   </component>
@@ -201,8 +218,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,7 +227,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../STACK MEAN" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="PluginDummyText.Genre" value="scifi" />
   </component>
@@ -265,6 +282,11 @@
       <workItem from="1516622145287" duration="1235000" />
       <workItem from="1516627139917" duration="725000" />
       <workItem from="1516781002701" duration="3378000" />
+      <workItem from="1516865316163" duration="6000" />
+      <workItem from="1516878299762" duration="2509000" />
+      <workItem from="1516973499168" duration="153000" />
+      <workItem from="1517218331232" duration="27000" />
+      <workItem from="1517246377435" duration="2565000" />
     </task>
     <task id="LOCAL-00001" summary="Layout Liquids">
       <created>1511349833969</created>
@@ -340,7 +362,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40467000" />
+    <option name="totallyTimeSpent" value="47044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -365,6 +387,26 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20535715" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -390,21 +432,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ejercicios/mi primera pagina/paginita.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ejercicios/mi primera pagina/estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="45" lean-forward="false" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hola.js" />
     <entry file="file://$PROJECT_DIR$/Ejercicios/mi primera pagina/paginita.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -615,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
           <caret line="72" column="48" lean-forward="false" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,16 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="118" />
-          <folding>
-            <element signature="e#1050#1057#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -671,24 +687,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3893">
+          <caret line="229" column="41" lean-forward="false" selection-start-line="229" selection-start-column="41" selection-end-line="229" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_9.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
-          <caret line="78" column="42" lean-forward="false" selection-start-line="78" selection-start-column="42" selection-end-line="78" selection-end-column="42" />
+          <caret line="72" column="18" lean-forward="false" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/index.html">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="240">
+          <caret line="15" column="148" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="148" />
+          <folding>
+            <element signature="e#1050#1057#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="47" column="10" lean-forward="false" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
           <folding />
         </state>
       </provider>
