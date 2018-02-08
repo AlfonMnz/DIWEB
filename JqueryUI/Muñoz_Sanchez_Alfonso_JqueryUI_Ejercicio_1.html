@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-<div class="container" >
+<div class="container">
     <div id="arrastrable" class="card col-2">
         <img class="card-img-top" src="https://atalgaba.com/img/xatalgaba.jpg.pagespeed.ic.Gx-px_oYWl.jpg"
              alt="Card image cap">
@@ -38,7 +38,18 @@
 <script>
     $(function () {
         $("#arrastrable").draggable({
-            containment: "parent",
+            containment: 'parent',
+            cursor: 'cell',
+            delay: 100,
+            grid: [25, 25],
+            zIndex: 100,
+            stack: '#arrastrable',
+            start() {
+                $(this).css('background-color', '#F44336');
+            },
+            end() {
+                $(this).css('background-color', '#FFF');
+            }
         });
     });
 </script>

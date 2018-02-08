@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25e0d0d2-2588-4034-b150-c5da8f30dc3c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/JqueryUI/Muñoz_Sanchez_Alfonso_JqueryUI_Ejercicio_1.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/JqueryUI/Muñoz_Sanchez_Alfonso_JqueryUI_Ejercicio_1.html" afterPath="$PROJECT_DIR$/JqueryUI/Muñoz_Sanchez_Alfonso_JqueryUI_Ejercicio_1.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_10.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="118" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="118" />
+              <caret line="6" column="118" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="118" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -90,8 +90,8 @@
       <file leaf-file-name="Muñoz_Sanchez_Alfonso_JqueryUI_Ejercicio_1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JqueryUI/Muñoz_Sanchez_Alfonso_JqueryUI_Ejercicio_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="356">
+              <caret line="50" column="53" lean-forward="false" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -199,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -216,7 +217,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,7 +287,8 @@
       <workItem from="1517310332048" duration="86000" />
       <workItem from="1517385065211" duration="696000" />
       <workItem from="1517992292508" duration="623000" />
-      <workItem from="1518082386181" duration="749000" />
+      <workItem from="1518082386181" duration="810000" />
+      <workItem from="1518087391532" duration="189000" />
     </task>
     <task id="LOCAL-00001" summary="Layout Liquids">
       <created>1511349833969</created>
@@ -366,16 +367,24 @@
       <option name="project" value="LOCAL" />
       <updated>1517249674672</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Muñoz_Sanchez_Alfonso_JqueryUI_Ejercicio_1">
+      <created>1518083173349</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1518083173349</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49291000" />
+    <option name="totallyTimeSpent" value="49541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20535715" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20535715" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -433,7 +442,8 @@
     <MESSAGE value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 7 terminado" />
     <MESSAGE value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 9 terminado" />
     <MESSAGE value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 11 terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Muñoz Sánchez Alfonso Bootstrap Ejercicio 11 terminado" />
+    <MESSAGE value="Muñoz_Sanchez_Alfonso_JqueryUI_Ejercicio_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Muñoz_Sanchez_Alfonso_JqueryUI_Ejercicio_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -735,7 +745,7 @@
     <entry file="file://$PROJECT_DIR$/Bootstrap/Muñoz_Sanchez_Alfonso_Bootstrap_Ejercicio_10.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="118" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="118" />
+          <caret line="6" column="118" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="118" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -755,8 +765,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JqueryUI/Muñoz_Sanchez_Alfonso_JqueryUI_Ejercicio_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        <state relative-caret-position="356">
+          <caret line="50" column="53" lean-forward="false" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
           <folding />
         </state>
       </provider>
